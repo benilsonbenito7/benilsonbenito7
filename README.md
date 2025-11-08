@@ -1,7 +1,7 @@
 ## 👨🏾‍💻 Benilson Benito  
 
 🎓 Estudante em formação na **42 Luanda** 💪, apaixonado por desenvolvimento e resolução de problemas.  
-💡 Com basesem **C** ,**C++**, **HTML**, **CSS**, **Tailwind CSS** e **javascript**, foco em criar soluções limpas, eficientes e visualmente modernas.  
+💡 Com bases em **C** ,**C++**, **HTML**, **CSS**, **Tailwind CSS** e **javascript**, foco em criar soluções limpas, eficientes e visualmente modernas.  
 🚀 Sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias no ecossistema de programação 👨🏾‍💻.  
 
 ---
