@@ -18,4 +18,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 </p>
 
-✨ *“Código limpo é o reflexo de um pensamento claro.”*
