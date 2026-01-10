@@ -1,19 +1,14 @@
-⁷## 👨🏾‍💻 Benilson Benito
+## 👨🏾‍💻 Benilson Benito
 
-🎓 Estudante em formação na **42 Luanda** 💪, apaixonado por desenvolvimento e resolução de problemas.  
-🚀 Sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias no ecossistema de programação 👨🏾‍💻.  
+🎓 Student in training at **42 Luanda** 💪, passionate about development and problem-solving.  
+🚀 Always seeking to improve my skills and explore new technologies in the programming ecosystem 👨🏾‍💻.  
 
 ---
 
-### ⚙️ Tecnologias & Ferramentas  
+### ⚙️ Technologies & Tools  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/c/c-original.svg" width="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" width="45" height="45"/>&nbsp;
 </p>
-
