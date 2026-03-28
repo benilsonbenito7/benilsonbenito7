@@ -1,29 +1,40 @@
 ## 👨🏾‍💻 Benilson Benito
 
-🎓 Estudante em formação na **Escola 42 Luanda**, focado em desenvolvimento de software e resolução de problemas através de projetos reais.  
-🚀 Apaixonado por tecnologia, com foco principal em **Backend com Python e Django**, sempre evoluindo e explorando novas ferramentas do ecossistema de desenvolvimento.  
-
-💡 Busco crescer como desenvolvedor, construindo bases sólidas em engenharia de software, APIs e sistemas escaláveis.
+🎓 Estudante em formação na **Escola 42 Luanda**, focado em desenvolvimento e resolução de problemas através de projetos reais.  
+🚀 Especializado em **Backend com Python e Django**, criando APIs REST e sistemas escaláveis.  
+💡 Apaixonado por tecnologia e sempre em evolução constante no ecossistema de desenvolvimento.
 
 ---
 
-### ⚙️ Tecnologias & Ferramentas
+## ⚙️ Tecnologias & Ferramentas
 
-**<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="45" height="45"/>&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="45" height="45"/>&nbsp;
-  
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>&nbsp;
-  
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>&nbsp;
-  
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>&nbsp;
-</p>**
+<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+- Foco em **Backend Development**
+- Criação de **APIs REST com Django REST Framework**
+- Interesse em **arquitetura de software e boas práticas**
+- Evoluindo constantemente na **Escola 42 Luanda**
