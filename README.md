@@ -1,8 +1,8 @@
 ## 👨🏾‍💻 Benilson Benito
 
 🎓 Estudante em formação na **Escola 42 Luanda**, focado em desenvolvimento e resolução de problemas através de projetos reais.  
-🚀 Especializado em **Backend com Python e Django**, criando APIs REST e sistemas escaláveis.  
-💡 Apaixonado por tecnologia e sempre em evolução constante no ecossistema de desenvolvimento.
+🚀 Foco principal em **Backend com Python e Django**, desenvolvendo APIs REST e aplicações web modernas.  
+💡 Em constante aprendizagem, explorando também frontend e boas práticas de engenharia de software.
 
 ---
 
@@ -13,6 +13,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+
+  <!-- TailwindCSS -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 
