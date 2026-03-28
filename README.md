@@ -2,7 +2,7 @@
 
 🎓 Estudante em formação na **Escola 42 Luanda**, focado em desenvolvimento e resolução de problemas através de projetos reais.  
 🚀 Foco principal em **Backend com Python e Django**, desenvolvendo APIs REST e aplicações web modernas.  
-💡 Em constante aprendizagem, explorando também frontend e boas práticas de engenharia de software.
+💡 Em constante aprendizagem, explorando também frontend.
 
 ---
 
