@@ -9,7 +9,7 @@
 
 ### ⚙️ Tecnologias & Ferramentas
 
-<p align="left">
+**<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>&nbsp;
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>&nbsp;
@@ -26,4 +26,4 @@
   
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>&nbsp;
-</p>
+</p>**
