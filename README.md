@@ -22,6 +22,6 @@
 
 ## 🚀 Sobre mim
 - Foco em **Backend Development**
-- Criação de **APIs REST com Django REST Framework**
+- Criação de **APIs REST com Django NinjaAPI**
 - Interesse em **arquitetura de software e boas práticas**
 - Evoluindo constantemente na **Escola 42 Luanda**
