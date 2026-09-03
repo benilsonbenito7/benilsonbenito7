@@ -52,6 +52,14 @@ Meu principal foco é o **desenvolvimento Backend com Python**, criando APIs e a
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
+### 🎨 Desenvolvimento Frontend
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+
 ### 📊 Engenharia de Dados
 
 <div>
